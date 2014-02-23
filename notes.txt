@@ -1,0 +1,5 @@
+notes
+
+rpcport: 58585
+p2pport: 58586
+testnet: 58589
